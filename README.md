@@ -10,7 +10,7 @@ What is eCent?
 eCent is internet’s decentralized currency aimed at low cost transactions, an option for merchants to get the payments faster than any other form of currency. Its here to solve the problems of slow transactions between users
  - Uses Proof of work – Scrypt hashing algorithm, best for GPUS like AMD and nVidia.
  - 25,000 coins per block initially
- - halving every 50 days or 720 blocks.
+ - halving every 50 days or 36,000 blocks.
  - total of 3.7B  coins approximately.
  - difficulty re-target every 20 block
  - block generation every 2 minutes
